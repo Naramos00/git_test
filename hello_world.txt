@@ -1,1 +1,2 @@
 currently learning from the Odin Project!
+Git is a bit confusing, but nothing that can't be learned with time and effort.
