@@ -1,2 +1,3 @@
 currently learning from the Odin Project!
 Git is a bit confusing, but nothing that can't be learned with time and effort.
+I dont understand how the vim interface works when using "git commit" without the -m flag
